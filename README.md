@@ -1,4 +1,4 @@
-# Exam System Skeleton
+# Exam System 
 
 This repository turns the delivery plan in `docs/system-plan.md` into a backend skeleton. The project uses a Maven multi-module layout to separate reusable components from exam-specific logic.
 
