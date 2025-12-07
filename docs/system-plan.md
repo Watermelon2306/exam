@@ -97,6 +97,3 @@
 - 集成：start/save/submit 幂等；阅卷提交事务。
 - 压测：保存、交卷接口 QPS；Redis 命中率监控。
 - 部署：Nginx + Docker 化服务，MySQL 主从可选，Redis 单机/哨兵，对象存储 MinIO/OSS/COS；监控接口耗时、错误码、考试峰值、慢 SQL、关键事件。
-
-## 8. 下一步
-- 若需直接编码，可生成完整 OpenAPI 3.0 定义与 Java DTO/Service 模板作为起步骨架。
